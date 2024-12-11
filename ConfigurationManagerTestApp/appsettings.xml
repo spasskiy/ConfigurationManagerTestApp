@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<Server>
+		<IpAddress>127.0.0.1</IpAddress>
+		<Port>50001</Port>
+	</Server>
+	<Client>
+		<IpAddress>127.0.0.1</IpAddress>
+		<Port>50001</Port>
+	</Client>
+</configuration>
